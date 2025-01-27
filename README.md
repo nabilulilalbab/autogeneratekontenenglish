@@ -14,6 +14,8 @@ Proyek ini dirancang untuk membuat video pembelajaran bahasa yang mencakup kalim
 ## Persyaratan
 Pastikan Anda memiliki semua dependensi yang diperlukan. Anda dapat menginstalnya menggunakan perintah berikut:  
 
+```
+
 ```bash
 pip install -r requirements.txt
 ```
