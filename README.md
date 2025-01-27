@@ -77,7 +77,7 @@ Proyek ini menggunakan lisensi **MIT**. Silakan gunakan dan modifikasi sesuai ke
 ## Kontak
 Jika Anda memiliki pertanyaan atau masalah, silakan hubungi kami di:  
 📧 Email: [nabilulilalbab@gmail.com]  
-🌐 Website: [portfolio.nabiel.biz.id]  
+🌐 Website: [https://portfolio.nabiel.biz.id]  
 
 ---
 
