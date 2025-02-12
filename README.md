@@ -14,8 +14,6 @@ Proyek ini dirancang untuk membuat video pembelajaran bahasa yang mencakup kalim
 ## Persyaratan
 Pastikan Anda memiliki semua dependensi yang diperlukan. Anda dapat menginstalnya menggunakan perintah berikut:  
 
-```
-
 ```bash
 pip install -r requirements.txt
 ```
@@ -76,10 +74,18 @@ Proyek ini menggunakan lisensi **MIT**. Silakan gunakan dan modifikasi sesuai ke
 
 ## Kontak
 Jika Anda memiliki pertanyaan atau masalah, silakan hubungi kami di:  
-📧 Email: [nabilulilalbab@gmail.com]  
-🌐 Website: [https://portfolio.nabiel.biz.id]  
+📧 Email: [nabilulilalbab@gmail.com](mailto:nabilulilalbab@gmail.com)  
+🌐 Website: [https://portfolio.nabiel.biz.id](https://portfolio.nabiel.biz.id)
 
----
+## Kontribusi
+Kontributor utama untuk basis pengembangan proyek ini adalah [bimadevs](https://github.com/bimadevs/autogeneratekontenenglish.git). Kontribusinya terlihat pada branch `stable` yang telah dijadikan default.  
+Jika Anda ingin berkontribusi:
+- **Fork** repository ini.
+- Buat branch baru untuk fitur atau perbaikan.
+- Kirimkan *pull request* dengan penjelasan perubahan yang telah Anda buat.
+- Untuk diskusi atau saran, silakan buka *issue* pada repository.
 
 Selamat belajar bahasa Inggris dan semoga sukses!
 ```
+
+Semoga *README* ini sudah sesuai dengan yang Anda harapkan!
