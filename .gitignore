@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+venv/
+env/
+
+# Build
+build/
+dist/
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Media files
+*.mp4
+*.mp3
+*.wav
+*.jpeg
+*.jpg
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
